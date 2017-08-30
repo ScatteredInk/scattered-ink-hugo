@@ -1,0 +1,25 @@
+baseurl = "https://scattered.ink/"
+title = "Scattered Ink"
+author = "Jack Lord"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-black-and-light-theme"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Scattered Ink"
+  
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[[menu.main]]
+    name = "About"
+    url  = "page/about"
+# [[menu.main]]
+#    name = "Projects"
+#    url  = "page/projects"
+
