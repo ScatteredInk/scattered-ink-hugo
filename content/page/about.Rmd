@@ -9,4 +9,4 @@ I am Jack Lord. This is where I put my writing.
 
 I work at [Open Data Services](https://www.opendataservices.coop), a worker co-operative that builds and supports data standards for social impact.  
 
-I'm on [Twitter](https://twitter.com/jacklord) or [Github](https://github.com/ScatteredInk) 
+I'm on [Twitter](https://twitter.com/jacklord) or [Github](https://github.com/ScatteredInk). 
