@@ -9,4 +9,12 @@ I am Jack Lord. This is where I put my writing.
 
 I work at [Open Data Services](https://www.opendataservices.coop), a worker co-operative that builds and supports data standards for social impact.  
 
-I'm on [Twitter](https://twitter.com/jacklord) or [Github](https://github.com/ScatteredInk). 
+I'm on [Twitter](https://twitter.com/jacklord) or [Github](https://github.com/ScatteredInk).
+
+***
+
+This site is built using [Blogdown](https://github.com/rstudio/blogdown) and the [Black and Light Theme](https://github.com/davidhampgonsalves/hugo-black-and-light-theme) for Hugo. 
+
+The theme, and derivative work, is [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). 
+
+Site content is © Jack Lord 2016-17. 
