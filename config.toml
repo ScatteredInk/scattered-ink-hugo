@@ -1,4 +1,4 @@
-baseurl = "http://www.scattered.ink/"
+baseurl = "https://www.scattered.ink/"
 title = "Scattered Ink"
 author = "Jack Lord"
 canonifyurls = true
